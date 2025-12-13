@@ -85,7 +85,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPLV3 License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -152,4 +152,4 @@ CrossGo 是一款生存策略游戏，其核心目标是 **吃掉对方的所有
 
 ### 开源协议
 
-该项目基于 MIT 协议开源 - 详情请参阅 [LICENSE](LICENSE) 文件。
+该项目基于 GPL V3 协议开源 - 详情请参阅 [LICENSE](LICENSE) 文件。
